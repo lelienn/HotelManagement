@@ -24,6 +24,8 @@ namespace HotelManagement.Controllers
 
         //Booking
 
+
+
         [HttpGet("GetBookings")]
 
         public IActionResult GetAllBookings()

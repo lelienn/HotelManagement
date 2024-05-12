@@ -10,6 +10,5 @@ namespace HotelManagement.Interfaces
         void InsertBooking(Booking obj);
         void UpdateBooking(Booking obj);
         void DeleteBooking(int id);
-        //GetBooking GetBookingByEmail(string email);
     }
 }
